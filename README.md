@@ -1,2 +1,2 @@
-# HappioCrz-Wiki
-wiki related to HappioCrz-Projects 
+# PROJECT - SALT
+a educational game to teach kids more about salts
